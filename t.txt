@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-try again
-=======
-milky wax
->>>>>>> eb85b18a85146aaace6f0cb24f14d801648c5594
+byehi
